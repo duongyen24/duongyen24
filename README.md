@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a tester
-- 🌱 I’m currently learning data analysist 
+- 🌱 I’m currently learning data analyst 
 
 => By committing code everyday will show how much effort and passion I put in programming.
 
